@@ -41,5 +41,27 @@ a[href="#"] {
 /* [href$="com"] {
   color: aqua;
 } */
+/* * {
+  font-size: 50px;
+}
+section {
+  color: red;
+}
+section > section {
+  color: aqua;
+}
+section > section > section {
+  color: blueviolet;
+}
+span > div {
+  color: gold;
+} */
 
-
+/* * {
+  font-size: 50px;
+}
+span,
+div {
+  height: 100px;
+  width: 100px;
+} */
